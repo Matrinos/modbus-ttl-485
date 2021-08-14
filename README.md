@@ -2,6 +2,7 @@
 ## Wire
 
 UNO to TTL convert
+
 DI <--> 8 as TX
 
 SO <--> 9 as RX
@@ -17,6 +18,7 @@ A <--> A
 B <--> B
 
 ## Libs
+
 SensorModbusMaster at https://github.com/EnviroDIY/SensorModbusMaster
 
 SoftwareSerial for UNO as the serial port which is connecting to 485 device.
