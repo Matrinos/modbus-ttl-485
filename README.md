@@ -2,6 +2,7 @@
 ## Wire
 
 UNO to TTL convert
+
 DI <--> 8 as TX
 SO <--> 9 as RX
 GND <--> GND
